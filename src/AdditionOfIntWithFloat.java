@@ -3,7 +3,7 @@ public class AdditionOfIntWithFloat {
     public static void main(String[] args) {
 
         //int + float → float
-        //float +double ->
+        //long + float → float
 
         int a = 10;
         float b =20f;
